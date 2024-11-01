@@ -1,0 +1,11 @@
+{
+    "require": {
+        "deliciousbrains/wp-background-processing": "^1.0",
+        "guzzlehttp/guzzle": "^7.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "ShopBox\\": "ShopBox/"
+        }
+    }
+}
